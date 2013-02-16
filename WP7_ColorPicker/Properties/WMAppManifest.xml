@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{5ff54c96-9d3b-491f-986a-618611f197fa}" Title="Swatch 7" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="WP7_ColorPicker author" Description="Sample description" Publisher="WP7_ColorPicker">
+  <App xmlns="" ProductID="{5ff54c96-9d3b-491f-986a-618611f197fa}" Title="Swatch 7.1" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="WP7_ColorPicker author" Description="Sample description" Publisher="WP7_ColorPicker">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_GAMERSERVICES" />
@@ -26,7 +26,7 @@
         <TemplateType5>
           <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
           <Count>0</Count>
-          <Title>Swatch 7</Title>
+          <Title>Swatch 7.1</Title>
         </TemplateType5>
       </PrimaryToken>
     </Tokens>
